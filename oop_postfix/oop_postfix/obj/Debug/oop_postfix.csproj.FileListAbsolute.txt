@@ -1,0 +1,7 @@
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\bin\Debug\oop_postfix.exe.config
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\bin\Debug\oop_postfix.exe
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\bin\Debug\oop_postfix.pdb
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\obj\Debug\oop_postfix.csprojAssemblyReference.cache
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\obj\Debug\oop_postfix.csproj.CoreCompileInputs.cache
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\obj\Debug\oop_postfix.exe
+C:\Users\mskll\Desktop\oop_postfix\oop_postfix\obj\Debug\oop_postfix.pdb
